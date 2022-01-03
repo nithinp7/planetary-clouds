@@ -1,0 +1,2 @@
+cloud_W_2001210_16384x16384.uasset filter=lfs diff=lfs merge=lfs -text
+cloud_W_2001210_4096x4096.uasset filter=lfs diff=lfs merge=lfs -text
